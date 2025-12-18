@@ -1,1 +1,1 @@
-unnepek=["húsvét","karácsony","augusztus 20"]
+unnepek=["augusztus 20","húsvét","karácsony"]
